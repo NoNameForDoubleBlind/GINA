@@ -4,11 +4,6 @@ Neural Graph Inference From Independent Snapshots of Interacting Systems
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 
-Copyright: 2021, Gerrit Großmann, [Group of Modeling and Simulation](https://mosi.uni-saarland.de/) at [Saarland University](http://www.cs.uni-saarland.de/)
-
-
-Official implementation of [GINA: Neural Relational Inference From Independent Snapshots](https://arxiv.org/abs/2105.14329)
-
 Version: 0.1 (Please note that this is proof-of-concept code.)
 
 
